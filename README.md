@@ -1,6 +1,7 @@
-# Trabajo práctico de Sistemas Operativos creado por el grupo "Tortuga Marítima"
+# Trabajo práctico de Sistemas Operativos 
+Grupo: "Tortuga Marítima"
 
-Para correr las pruebas seguir "readme.txt"
+Para correr las pruebas leer *"readme.txt"*
 
 # Integrantes: 
 > Tomás Gómez Berruezo
