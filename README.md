@@ -8,4 +8,4 @@ Para correr las pruebas leer *"readme.txt"*
 > Julián Carretto\
 > Javier García\
 > Marcos Gurruchaga\
-> Ignacio Piloni\
+> Ignacio Piloni
